@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T13:10:42.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qHLedDEmxMf_3hXDEcbe" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T13:16:52.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="bFDhrL_x2jMfcH6jChvS" version="20.3.6" type="github">
   <diagram id="ACtDSul0TYMXdz8cPgw9" name="Page-1">
     <mxGraphModel dx="1242" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
             <mxPoint x="870" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I3mY_iz7zY3xU5YZPIfy-49" value="Vlan 2 R&amp;amp;E" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="I3mY_iz7zY3xU5YZPIfy-49" value="Vlan 10 R&amp;amp;E" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3mY_iz7zY3xU5YZPIfy-50" value="vlan 11 Guests" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -145,13 +145,13 @@
         <mxCell id="I3mY_iz7zY3xU5YZPIfy-59" value="Vlan 12 Camera" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I3mY_iz7zY3xU5YZPIfy-60" value="VLan 13 Printers" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="I3mY_iz7zY3xU5YZPIfy-60" value="VLan 14 Printers" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I3mY_iz7zY3xU5YZPIfy-61" value="Vlan 14 centraleverwaming" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="I3mY_iz7zY3xU5YZPIfy-61" value="Vlan 1( centraleverwaming" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I3mY_iz7zY3xU5YZPIfy-62" value="Vlan 15 digitale borden" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="I3mY_iz7zY3xU5YZPIfy-62" value="Vlan 16 digitale borden" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3mY_iz7zY3xU5YZPIfy-63" value="Vlan 666 Native" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
