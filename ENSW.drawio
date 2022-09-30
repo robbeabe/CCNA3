@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T12:16:09.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="yQf2o7d0gMW_1C3taRC9" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T12:18:24.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="lW5A4D7rXqVS4OEkuH5D" version="20.3.6" type="github">
   <diagram id="ACtDSul0TYMXdz8cPgw9" name="Page-1">
     <mxGraphModel dx="1656" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -302,10 +302,10 @@
         <mxCell id="oG-LOXhhDPoAd439Rt00-10" value="Serial 0&lt;br&gt;10.0.99.5/30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1295" y="370" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oG-LOXhhDPoAd439Rt00-11" value="Gig 0/0 &lt;br&gt;10.0.99.9/30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="oG-LOXhhDPoAd439Rt00-11" value="Serial 1&lt;br&gt;10.0.99.9/30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1315" y="280" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oG-LOXhhDPoAd439Rt00-12" value="gig 0/0&lt;br&gt;10.0.99.8/30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="oG-LOXhhDPoAd439Rt00-12" value="Serial 0&lt;br&gt;10.0.99.8/30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="635" y="295" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
